@@ -1,5 +1,5 @@
 You can find this project at the following URL:
-### [Product Landing Page] (https://kareemfahmy97.github.io/Product-Landing-Page/)
+### [Product Landing Page](https://kareemfahmy97.github.io/Product-Landing-Page/)
 
 # Product-Landing-Page
 A Simple Product Landing Page for Freecodecamp responsive web design course.
